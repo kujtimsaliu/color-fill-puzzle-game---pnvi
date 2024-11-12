@@ -11,15 +11,21 @@ Color Fill Puzzle is an engaging puzzle game that challenges players to fill a g
 ## 🎮 Gameplay Screenshots
 
 ### Initial Game State
-![Empty Grid](screenshot1.png)
+
+<img src="https://github.com/user-attachments/assets/e0998023-5fda-40f2-8429-948efcaeb4a5" alt="Alt Text" width="350" height="350">
+
 *Starting state with empty grid and color palette*
 
 ### Game in Progress with Hints
-![Hints Active](screenshot3.png)
+
+<img src="https://github.com/user-attachments/assets/747edee1-06a1-4b70-ab3d-76a2c49fbf5b" alt="Alt Text" width="350" height="350">
+
 *Hint mode showing number of valid colors for each empty square*
 
 ### Completed Puzzle
-![Completed Puzzle](screenshot2.png)
+
+<img src="https://github.com/user-attachments/assets/1bcaea1b-63bf-49fd-bd53-c1f46235c8f7" alt="Alt Text" width="350" height="350">
+
 *Successfully completed puzzle with score display*
 
 ## ✨ Features
@@ -58,7 +64,7 @@ pip install pygame
 
 3. Clone the repository:
 ```bash
-git clone https://github.com/kujtimsaliu/color-fill-puzzle.git
+git clone https://github.com/kujtimsaliu/color-fill-puzzle-game---pnvi.git
 cd color-fill-puzzle
 ```
 
