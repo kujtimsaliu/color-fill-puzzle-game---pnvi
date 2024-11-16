@@ -91,9 +91,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋‍♂️ Author
 
 Created by Kujtim Saliu
-
-## 🌟 Acknowledgments
-
-- Built with Pygame
-- Inspired by classic color puzzle games
-- Thanks to all testers and contributors
